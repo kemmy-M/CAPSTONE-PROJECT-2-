@@ -33,6 +33,11 @@ In this phase, I performed the following actions;
    ![SUBSCRIPTION TYPE BY CUSTOMERID BY CANCELLED](https://github.com/user-attachments/assets/7565866f-d81b-492a-95ce-903e3511cdcb)
 ![subscription type by customer ID](https://github.com/user-attachments/assets/e9bed5ad-d5ba-4d01-ade5-3be5781050c6)
 
+The dataset was also summarized with charts to show the report of subscription type by region and by revenue. it was deduced that  only the South subscribed to 'Premium' and only the West subscribed to 'Standard' while the North and the East took their likeness on the 'Basic'
+
+![Chart 1](https://github.com/user-attachments/assets/72dfa41b-2a1b-41ac-ab64-20b6102501c0)
+
+
 From the data summarized above, I was able to deduce the average subscription duration to be 365 and also identify 'basic' as the most popular
 subscription types 
 
