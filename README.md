@@ -6,8 +6,11 @@ This project was carried out to analyze customer data to identify different subs
 The primary source of my data was a file containing 75000 customerData with Subscription information
 ### Data Tools used
 i. Microsoft Excel for data cleaning, analysis and visualization
+
 ii. SQL for structured data querrying
+
 iii. PowerBI for data cleaning, analysis and visualization  
+
 iv. GitHub for showcasing progress of the project
 ## Data Cleaning and Preparation
 In this phase, I performed the following actions;
